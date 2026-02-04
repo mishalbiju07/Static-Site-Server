@@ -31,4 +31,5 @@ This project demonstrates setting up a basic Linux server to serve a static webs
 1. Clone this repository:  
    ```bash
    git clone <repository-url>
-   cd <repository-folder>
+   cd <repository-folder>```
+2.
