@@ -1,7 +1,5 @@
 ##Static Site Server with Nginx
-
 This project demonstrates setting up a basic Linux server to serve a static website using Nginx and deploying updates with rsync.
-
 *Project Overview**
 
 Set up a Linux (Ubuntu LTS) EC2 instance on AWS.
