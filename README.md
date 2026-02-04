@@ -1,1 +1,3 @@
-The goal of this project is to  understand the basics of setting up a web server using a basic static site served using Nginx. Also to learn how to use rsync to deploy changes to the server.
+This project focuses on two key technologies: Nginx for efficient web serving and rsync for seamless file synchronization between local development environment and the remote server.
+
+
