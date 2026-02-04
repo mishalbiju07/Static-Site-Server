@@ -1,8 +1,8 @@
-Static Site Server with Nginx
+**Static Site Server with Nginx**
 
 This project demonstrates setting up a basic Linux server to serve a static website using Nginx and deploying updates with rsync.
 
-Project Overview
+*Project Overview**
 
 Set up a Linux (Ubuntu LTS) EC2 instance on AWS.
 
@@ -16,10 +16,26 @@ Automated deployment using rsync with a deploy.sh script.
 
 Website is live at: http://3.110.179.198/
 
-Features
+**Technologies Used**
+
+AWS EC2 (Ubuntu LTS) – Linux server hosting
+
+SSH – Secure server connection
+
+Nginx – Web server to serve static files
+
+HTML / CSS – Frontend for the static site
+
+rsync – Synchronize local files to remote server
+
+Bash – Automation script (deploy.sh)
+
+**Features**
 
 Basic static website hosting.
 
 Easy deployment and update process using rsync.
 
 Automated deployment script (deploy.sh) for quick updates.
+
+**Usage**
