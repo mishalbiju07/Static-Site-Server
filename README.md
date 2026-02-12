@@ -35,5 +35,6 @@ This project demonstrates setting up a basic Linux server to serve a static webs
 2. Make your changes to the static site files (index.html, style.css, images, etc.)
 3. Deploy updates to the server using:
    ```bash
-   ./deploy.sh```
+   ./deploy.sh
+   ```
 4. Visit site at the server IP
