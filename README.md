@@ -11,6 +11,9 @@ This project demonstrates setting up a basic Linux server to serve a static webs
 - Automated deployment using **rsync** with a `deploy.sh` script.
 - [Live Demo](http://65.2.124.193/) // [http://65.2.124.193/](http://65.2.124.193/)
 
+(it may not always work because the Amazon server might be offline or shut down. Please refer to the screenshots below if the live page does not work)
+<img width="1919" height="945" alt="Screenshot 2026-02-24 004930" src="https://github.com/user-attachments/assets/b253b616-6a08-45bf-8188-c82e544e10e2" />
+
 ## Technologies Used
 
 - **AWS EC2 (Ubuntu LTS)** – Linux server hosting  
