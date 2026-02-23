@@ -9,7 +9,7 @@ This project demonstrates setting up a basic Linux server to serve a static webs
 - Installed and configured **Nginx** to serve a static site.
 - Created a simple webpage using **HTML, CSS, and image files**.
 - Automated deployment using **rsync** with a `deploy.sh` script.
-- [Live Demo](http://3.110.179.198/) // [http://3.110.179.198/](http://3.110.179.198/)
+- [Live Demo](http://65.2.124.193/) // [http://65.2.124.193/](http://65.2.124.193/)
 
 ## Technologies Used
 
